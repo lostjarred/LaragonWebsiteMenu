@@ -6,20 +6,20 @@
         <link rel="stylesheet" href="./css/amber.css">
     </head>
     <body>
-        <div style="width: 99%;" class="main">
+        <div style="width: 100%;" class="main">
             <div style="float: left width: 100%">
                 <h1>Local Website Menu</h1>
                 <ul style="list-style-type:none;">
                     <li> 
-                        <a href=".\websiteterminal\site">>>>Test Website Layout </a> 
+                        <a href=".\websiteterminal\site">>>> Test Website Layout </a> 
                     </li>
                 </ul>
             </div>
-            <div style="float: left width: 100%">
+            <div style="float: left width: 100%" class="content">
                 <h1>Useful Links</h1>
                 <ul style="list-style-type:none;">
                     <li> 
-                        <a href="http://www.google.com/">>>>Google </a> 
+                        <a href="http://www.google.com/">>>> Google </a> 
                     </li>
                 </ul>
             </div>
