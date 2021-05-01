@@ -1,8 +1,8 @@
 body {
     background-color: rgb(40, 40, 40);
-}
-
-div.main{
     border: 3px dotted;
 }
 
+div.content{
+    border-top: 1px dashed;
+}
