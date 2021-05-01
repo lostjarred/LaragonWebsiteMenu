@@ -16,3 +16,7 @@ h2 {
 a {
     color:rgb(255, 204, 0);
 }
+
+div.main{
+    border-color:rgb(255, 176, 0);
+}
