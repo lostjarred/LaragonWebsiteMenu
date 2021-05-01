@@ -17,6 +17,14 @@ a {
     color:rgb(255, 204, 0);
 }
 
+body {
+    border-color:rgb(255, 176, 0);
+}
+
 div.main{
+    border-color:rgb(255, 176, 0);
+}
+
+div.content{
     border-color:rgb(255, 176, 0);
 }
